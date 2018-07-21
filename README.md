@@ -1,3 +1,20 @@
-## Django REST Framework -- make GET & POST requests 
+## Django REST Framework 
 
-![alt text](screenshots/django-REST.png)
+
+### PUT/DELETE 
+
+![alt text](screenshots/put_delete.png)
+
+
+
+### GET 
+
+![alt text](screenshots/get.png)
+
+
+
+
+### POST  
+
+![alt text](screenshots/post.png)
+
